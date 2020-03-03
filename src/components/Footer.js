@@ -26,7 +26,7 @@ const Footer = () => {
                 </div>
                 <div className="container">
                 <ul className="copyright containerLow">
-						<li>© Untitled. All rights reserved.</li>
+						<li>© Untitled. All rights reserved .</li>
 						<li>Design: <a href="http://templated.co">TEMPLATED</a></li>
 						<li>Images: <a href="http://unsplash.com">Unsplash</a></li>
 					</ul>
